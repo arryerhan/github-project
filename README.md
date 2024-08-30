@@ -5,7 +5,7 @@
 ---
 - Html
 - Css
-- Bootstrap
+- Scss
 
 ### Screenshot is below
 ![screen](https://github.com/user-attachments/assets/4ef2fc8f-568b-48d1-a1da-a5a10ab979e2)
